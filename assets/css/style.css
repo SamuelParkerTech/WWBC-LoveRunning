@@ -115,6 +115,16 @@ footer {background-color: orange;
  }
 
  .nav-toggle-label {
-    display;none
+    display:none}
 }
+
+#logo {
+    font-size: 280%;
+    line-height: 75px;
+    margin: 0 0.5rem;
 }
+
+/* Main Content */
+main {
+/* Push main content down to aCCOMMODATE LARGER HEADER */
+margin-top:75px;}
