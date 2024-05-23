@@ -219,6 +219,7 @@ main {
 }
 
 .text-input {
+    background: transparent;
     line-height: 25px;
     padding: 0 5px;
     margin-top: 5px;
